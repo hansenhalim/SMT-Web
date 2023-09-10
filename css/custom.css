@@ -5,3 +5,7 @@ Your custom css here
 /////////////////////////////////////////*/
 
 /* Custom CSS for logo size */
+.logo-img {
+  max-width: 100px; /* Adjust the max-width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
